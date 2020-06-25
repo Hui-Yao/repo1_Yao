@@ -123,7 +123,7 @@ print(la27, la28)
 
 la29 = char1.split('_')  # 29.split(sep，maxsplit)——以指定字符串分割字符串，并且可以指定最大分割次数
 la30 = char1.rsplit('lalal')  # 30.rsplit(sep,maxsplit)——从右开始
-print('solit(),rsplit()',la29, la30)
+print('split(),rsplit()',la29, la30)
 '''partition()与split()de的区别:
 partition()会返回三个部分（前，分隔符，后）形成元组。分隔符不存在则返回源字符串与两个空字符串。
 split（）只会返回两个部分（不会返回分隔符）形成列表。分隔符不存在则返回只包含源字符串一个元素的列表。

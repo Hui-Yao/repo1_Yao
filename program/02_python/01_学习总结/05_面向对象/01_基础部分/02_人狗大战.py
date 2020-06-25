@@ -29,6 +29,7 @@ class Dog:
 p1 = Person('jack',50)
 d1 = Dog('husky',40)
 
+
 p1.beat(d1)
 
 d1.bite(p1)

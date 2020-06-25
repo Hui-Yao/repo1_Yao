@@ -78,7 +78,7 @@ linewidth = num  指定网格线的宽度
 '''
 
 #3. 绘图，但不会显示图片
-plt.plot(x,y1,label = '南昌',color = 'k',linestyle = '--',linewidth = '7',alpha = '0.6')
+plt.plot(x,y1,label = '南昌',color = 'k',linestyle = '--',linewidth = '7',alpha = 0.6)
 plt.plot(x,y2,label = '九江',color = 'r')
 
 

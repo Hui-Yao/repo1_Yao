@@ -1,25 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eff6960-0c81-45c5-98a4-0524b60c0db9" name="Default Changelist" comment="" />
+    <list default="true" id="c7748cf8-eeef-480a-8d14-e42075c471ce" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1cvQIJINPMxPMI8ZdgdlYbS0QVw" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dLYrYQNR4g94fA2wKq1nBQkRxa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../01_git_repo/SfMLearner" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fake2">
+    <configuration name="最初完整版 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="02_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -27,12 +42,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_学习总结" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_cov19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_学习总结/Try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_cov19/最初完整版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最初完整版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_cov19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\04_program\02_python\new_cov19\最初完整版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="before_SEIR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_cov19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_cov19/before_SEIR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_cov19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_cov19/fake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fake2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_cov19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_cov19/fake2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -43,7 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Try" />
+        <item itemvalue="Python.fake2" />
+        <item itemvalue="Python.before_SEIR" />
+        <item itemvalue="Python.最初完整版 (1)" />
+        <item itemvalue="Python.fake" />
+        <item itemvalue="Python.最初完整版" />
       </list>
     </recent_temporary>
   </component>
@@ -52,48 +159,165 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0eff6960-0c81-45c5-98a4-0524b60c0db9" name="Default Changelist" comment="" />
-      <created>1591406505610</created>
+      <changelist id="c7748cf8-eeef-480a-8d14-e42075c471ce" name="Default Changelist" comment="" />
+      <created>1592206039745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591406505610</updated>
-      <workItem from="1591406506892" duration="3059000" />
-      <workItem from="1591424881493" duration="5564000" />
-      <workItem from="1591837237850" duration="393000" />
+      <updated>1592206039745</updated>
+      <workItem from="1592206094782" duration="6162000" />
+      <workItem from="1592267286581" duration="5624000" />
+      <workItem from="1592308782982" duration="3241000" />
+      <workItem from="1592375878317" duration="57000" />
+      <workItem from="1592376879407" duration="1293000" />
+      <workItem from="1592634629977" duration="31848000" />
+      <workItem from="1592797005910" duration="6901000" />
+      <workItem from="1592812122253" duration="13728000" />
+      <workItem from="1592830160777" duration="937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2506" height="396" key="GridCell.Tab.0.bottom" timestamp="1591837633922">
-      <screen x="0" y="20" width="2560" height="1420" />
+    <state x="1060" y="459" key="FileChooserDialogImpl" timestamp="1592635362209">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2506" height="397" key="GridCell.Tab.0.bottom/0.20.2560.1420/2560.0.1600.900@0.20.2560.1420" timestamp="1591510967177" />
-    <state width="2506" height="396" key="GridCell.Tab.0.bottom/0.20.2560.1420/2560.267.1600.900@0.20.2560.1420" timestamp="1591837633922" />
-    <state width="2506" height="396" key="GridCell.Tab.0.center" timestamp="1591837633922">
-      <screen x="0" y="20" width="2560" height="1420" />
+    <state x="1060" y="459" key="FileChooserDialogImpl/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592635362209" />
+    <state width="2517" height="501" key="GridCell.Tab.0.bottom" timestamp="1592900592581">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2506" height="397" key="GridCell.Tab.0.center/0.20.2560.1420/2560.0.1600.900@0.20.2560.1420" timestamp="1591510967177" />
-    <state width="2506" height="396" key="GridCell.Tab.0.center/0.20.2560.1420/2560.267.1600.900@0.20.2560.1420" timestamp="1591837633922" />
-    <state width="2506" height="396" key="GridCell.Tab.0.left" timestamp="1591837633922">
-      <screen x="0" y="20" width="2560" height="1420" />
+    <state width="2517" height="501" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592900592581" />
+    <state width="1557" height="283" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.220.1600.870@2560.220.1600.870" timestamp="1592805217152" />
+    <state width="2517" height="501" key="GridCell.Tab.0.center" timestamp="1592900592581">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2506" height="397" key="GridCell.Tab.0.left/0.20.2560.1420/2560.0.1600.900@0.20.2560.1420" timestamp="1591510967177" />
-    <state width="2506" height="396" key="GridCell.Tab.0.left/0.20.2560.1420/2560.267.1600.900@0.20.2560.1420" timestamp="1591837633922" />
-    <state width="2506" height="396" key="GridCell.Tab.0.right" timestamp="1591837633922">
-      <screen x="0" y="20" width="2560" height="1420" />
+    <state width="2517" height="501" key="GridCell.Tab.0.center/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592900592581" />
+    <state width="1557" height="283" key="GridCell.Tab.0.center/0.0.2560.1410/2560.220.1600.870@2560.220.1600.870" timestamp="1592805217152" />
+    <state width="2517" height="501" key="GridCell.Tab.0.left" timestamp="1592900592581">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2506" height="397" key="GridCell.Tab.0.right/0.20.2560.1420/2560.0.1600.900@0.20.2560.1420" timestamp="1591510967177" />
-    <state width="2506" height="396" key="GridCell.Tab.0.right/0.20.2560.1420/2560.267.1600.900@0.20.2560.1420" timestamp="1591837633922" />
-    <state x="761" y="365" key="SettingsEditor" timestamp="1591837303897">
-      <screen x="0" y="20" width="2560" height="1420" />
+    <state width="2517" height="501" key="GridCell.Tab.0.left/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592900592581" />
+    <state width="1557" height="283" key="GridCell.Tab.0.left/0.0.2560.1410/2560.220.1600.870@2560.220.1600.870" timestamp="1592805217152" />
+    <state width="2517" height="501" key="GridCell.Tab.0.right" timestamp="1592900592581">
+      <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="761" y="365" key="SettingsEditor/0.20.2560.1420/2560.0.1600.900@0.20.2560.1420" timestamp="1591406535340" />
-    <state x="761" y="365" key="SettingsEditor/0.20.2560.1420/2560.267.1600.900@0.20.2560.1420" timestamp="1591837303897" />
+    <state width="2517" height="501" key="GridCell.Tab.0.right/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592900592581" />
+    <state width="1557" height="283" key="GridCell.Tab.0.right/0.0.2560.1410/2560.220.1600.870@2560.220.1600.870" timestamp="1592805217152" />
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom" timestamp="1592796889083">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592796889083" />
+    <state width="2517" height="496" key="GridCell.Tab.1.center" timestamp="1592796889083">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.center/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592796889083" />
+    <state width="2517" height="496" key="GridCell.Tab.1.left" timestamp="1592796889083">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.left/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592796889083" />
+    <state width="2517" height="496" key="GridCell.Tab.1.right" timestamp="1592796889083">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.right/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592796889083" />
+    <state x="781" y="349" key="SettingsEditor" timestamp="1592713330936">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="349" key="SettingsEditor/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592713330936" />
+    <state x="644" y="291" width="1616" height="958" key="dock-window-1" timestamp="1592718094735">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="644" y="291" width="1616" height="958" key="dock-window-1/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592718094735" />
+    <state x="2712" y="220" width="1207" height="958" maximized="true" key="dock-window-2" timestamp="1592804575699">
+      <screen x="2560" y="220" width="1600" height="870" />
+    </state>
+    <state x="2712" y="220" width="1207" height="958" maximized="true" key="dock-window-2/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592804575699" />
+    <state x="741" y="295" width="1076" height="1099" key="search.everywhere.popup" timestamp="1592731776895">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="741" y="295" width="1076" height="1099" key="search.everywhere.popup/0.0.2560.1410/2560.220.1600.870@0.0.2560.1410" timestamp="1592731776895" />
+    <state x="3023" y="402" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/2560.220.1600.870@2560.220.1600.870" timestamp="1592310300748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_cov19/before_SEIR.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/02_python$Try.coverage" NAME="Try Coverage Results" MODIFIED="1591837618352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_学习总结" />
+    <SUITE FILE_PATH="coverage/02_python$__1_.coverage" NAME="最初完整版 (1) Coverage Results" MODIFIED="1592823895199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$111111.coverage" NAME="111111 Coverage Results" MODIFIED="1592745964888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$after_social_distance.coverage" NAME="after_social-distance Coverage Results" MODIFIED="1592797496964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$before_SEIR.coverage" NAME="before_SEIR Coverage Results" MODIFIED="1592830342638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$fake2.coverage" NAME="fake2 Coverage Results" MODIFIED="1592830467475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$fake.coverage" NAME="fake Coverage Results" MODIFIED="1592820574948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$02_.coverage" NAME="02_人狗大战 Coverage Results" MODIFIED="1592220932645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_学习总结/05_面向对象/01_基础部分" />
+    <SUITE FILE_PATH="coverage/02_python$02_argparse.coverage" NAME="02_argparse Coverage Results" MODIFIED="1592310258104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_学习总结/其他" />
+    <SUITE FILE_PATH="coverage/02_python$Try.coverage" NAME="Try Coverage Results" MODIFIED="1592213348532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_学习总结" />
+    <SUITE FILE_PATH="coverage/02_python$01_.coverage" NAME="01_绘制折线图 Coverage Results" MODIFIED="1592718004610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_matplotlib/01_matplotlib" />
+    <SUITE FILE_PATH="coverage/02_python$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1592812456139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$TryTry.coverage" NAME="TryTry Coverage Results" MODIFIED="1592295633821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_学习总结" />
+    <SUITE FILE_PATH="coverage/02_python$2222.coverage" NAME="2222 Coverage Results" MODIFIED="1592805701761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
+    <SUITE FILE_PATH="coverage/02_python$new_19.coverage" NAME="new-19 Coverage Results" MODIFIED="1592795025666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_cov19" />
   </component>
 </project>
